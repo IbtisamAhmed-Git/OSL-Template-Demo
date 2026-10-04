@@ -26,4 +26,4 @@ Follow these steps to get the project running on your local machine:
 
 1. **Clone the repository:**
    ```bashgit clone
-   [https://github.com/HSHL/](https://github.com/HSHL/)[your-repo-name].git
+git clone [https://github.com/HSHL/](https://github.com/HSHL/)[your-repo-name].git
